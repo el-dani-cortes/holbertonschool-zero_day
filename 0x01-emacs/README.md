@@ -1,1 +1,1 @@
-Syntax of Emacss documentation
+# Syntax of Emacss documentation
